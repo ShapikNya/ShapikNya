@@ -1,16 +1,61 @@
-## Hi there 👋
+# 👋 Привет, я Никита Шаповалов
 
-<!--
-**ShapikNya/ShapikNya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 Студент 4 курса факультета информационных систем (МИКТ)  
+💻 Разрабатываю web-приложения и desktop на **C# / .NET**  
+📍 Увлекаюсь микроконтроллерами и архитектурой ПО
 
-Here are some ideas to get you started:
+## 🧠 Мой стек
+**Основное:**  
+C#, .NET, ASP.NET Core Web API, EF Core, MediatR, FluentValidation, AutoMapper  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Инструменты:**  
+Docker, Git, Postgres, Swagger, Serilog, xUnit, WinForms, WPF  
+
+**Дополнительно:**  
+Clean Architecture, CQRS, JWT, MVVM, микроконтроллеры (C / ASM)
+
+## 🚀 Проекты
+
+### 🧩 [Tasks Web API](https://github.com/ShapikNya/WebApi-Tasks)
+Серверное приложение для управления задачами с **Clean Architecture**.    
+Реализовано:   
+- JWT аутентификация и авторизация по ролям
+- CRUD операции для работы с сущностью задачи
+- FluentValidation, AutoMapper
+- Логи через Serilog
+- Docker + Nginx reverse proxy
+
+---
+
+### 🧪 [Gas Laws (WPF)](https://github.com/ShapikNya/edu-app)
+Образовательное WPF-приложение для наглядного моделирования газовых процессов. Позволяет визуализировать законы Бойля-Мариотта, Шарля и Гей-Люссака.
+
+**🚀 Основной функционал:**  
+- Ввод начальных параметров (давление, объём, температура)  
+- Выбор действия: сжатие / расширение поршня  
+- Автоматический перерасчёт параметров  
+- Построение графиков (P–V, T–V и др.)  
+- Анимация движения поршня
+  
+**🛠️ Технологии и паттерны:**   
+C# (.NET), WPF, MVVM, TemplateBinding, LiveCharts, XAML.
+
+---
+
+### 🔫 [LaserTurret-AI](https://github.com/ShapikNya/LaserTurret-AI)
+Модуль системы лазерной турели, который обрабатывает изображения с камеры и выполняет распознавание целей с помощью нейросетевых моделей YOLO.
+
+**📌 Статус проекта:**  
+Разработаны две ветки:
+- **dev** — консольное приложение: работа с YoloDotNet в реальном времени, вывод FPS и данных о детектируемых объектах, управление запуском/остановкой.  
+- **sandbox** — WinForms GUI: вывод изображения с камеры или файла, выбор алгоритма (каскады Хаара / YOLO ONNX).
+
+**🛠️ Технологии:**   
+C# (.NET), WinForms, Console, Emgu.CV (OpenCV), SkiaSharp, YoloDotNet, ONNX Runtime, CUDA.
+
+**🚀 Планируемое развитие:**  
+- Расчёт углов поворота сервоприводов в зависимости от положения цели  
+- Передача данных на микроконтроллер через COM-порт  
+- Трекинг целей и оптимизация производительности  
+
+
