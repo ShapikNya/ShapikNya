@@ -1,28 +1,23 @@
 # 👋 Привет!
 
-🎓 Я студент 4 курса факультета информационных систем (МИКТ)  
-💻 Разрабатываю web-приложения и desktop на **C# / .NET**  
-📍 Увлекаюсь микроконтроллерами и архитектурой ПО
+Я студент 4 курса факультета информационных систем (МИКТ).  
+Разрабатываю **web-сервисы и desktop-приложения на C# / .NET**, интересуюсь микроконтроллерами и архитектурой ПО.
+
+Стремлюсь к высокому качеству кода, открыт к критике, быстро учусь и осваиваю новые технологии. Готов адаптироваться под любой стек и работать с разными архитектурными подходами.
+
 
 ## 🧠 Мой стек
-**Основное:**  
-C#, .NET, ASP.NET Core Web API, EF Core, MediatR, FluentValidation, AutoMapper  
 
-**Инструменты:**  
-Docker, Git, Postgres, Swagger, Serilog, xUnit, WinForms, WPF  
+### Актуальные навыки
+- С# ООП LINQ async/await thread   
+- ASP.NET Core Web API (REST)    
+- EF Core Postgres   
+- XUnit Moq FluentValidation   
+- Docker Git Swagger   
+- SOLID DRY/KISS CQRS MediatR  
 
-**Дополнительно:**  
-Clean Architecture, CQRS, JWT, MVVM, микроконтроллеры (C / ASM)
-
-## 🚀 Проекты
-
-### 🧩 [Tasks Web API](https://github.com/ShapikNya/WebApi-Tasks)
-Серверное приложение для управления задачами с **Clean Architecture**.    
-Реализовано:   
-- JWT аутентификация и авторизация по ролям
-- CRUD операции для работы с сущностью задачи
-- FluentValidation, AutoMapper
-- Логи через Serilog
-- Docker + Nginx reverse proxy
-
-
+### Архивные навыки
+- WPF WinForms   
+- MVVM TemplateBinding   
+- HTML, CSS  
+- C Assembly  
