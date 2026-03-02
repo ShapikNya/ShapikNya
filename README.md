@@ -1,23 +1,25 @@
-# 👋 Привет!
+# Backend Developer | C# / .NET
 
-Я студент 4 курса факультета информационных систем (МИКТ).  
-Разрабатываю **web-сервисы и desktop-приложения на C# / .NET**, интересуюсь микроконтроллерами и архитектурой ПО.
+Junior .NET Backend Developer.
+Разрабатываю Web API на ASP.NET Core с фокусом на архитектуру, тестируемость и поддерживаемость кода.
 
-Стремлюсь к высокому качеству кода, открыт к критике, быстро учусь и осваиваю новые технологии. Готов адаптироваться под любой стек и работать с разными архитектурными подходами.
+---
 
+## Tech Stack
 
-## Мой стек
+Backend:
+- C# (.NET 8)
+- ASP.NET Core Web API
+- EF Core + PostgreSQL
+- Clean Architecture
+- CQRS (MediatR)
 
-### Актуальные навыки
-- С# ООП LINQ async/await thread   
-- ASP.NET Core Web API (REST)    
-- EF Core Postgres   
-- XUnit Moq FluentValidation   
-- Docker Git Swagger   
-- SOLID DRY/KISS CQRS MediatR  
+Testing:
+- xUnit
+- Moq
+- FluentValidation
 
-### Архивные навыки
-- WPF WinForms   
-- MVVM TemplateBinding   
-- HTML, CSS  
-- C Assembly  
+Infrastructure:
+- Docker
+- Swagger / OpenAPI
+- Serilog
