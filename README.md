@@ -3,8 +3,6 @@
 Junior .NET Backend Developer.
 Разрабатываю Web API на ASP.NET Core с фокусом на архитектуру, тестируемость и поддерживаемость кода.
 
----
-
 ## Tech Stack
 
 Backend:
